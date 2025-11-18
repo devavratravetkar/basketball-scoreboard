@@ -25,7 +25,7 @@ h3 {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #1B244A;
+    background-color: #0077ff;
     margin: 0 auto;
 }
 
@@ -42,7 +42,7 @@ p {
     height: 100px;
     font-size: 90px;
     color: #f94f6d;
-    background-color: #080001;
+    background-color: #000802;
     text-align: center;
     margin: 22px 0 25px;
     display: flex;
